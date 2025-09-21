@@ -96,15 +96,4 @@ Here are some things you can say:
 - Play music 🎶  
 - AI chatbot integration 🤖  
 
----
-
-## 👩‍💻 Author  
-
-**Ipshita Srivastava**  
-💻 CSE Student | 🌐 Frontend Developer | 🤖 AI/ML Enthusiast  
-
-📌 [LinkedIn](https://www.linkedin.com/in/ipshita-srivastvava) | [GitHub](https://github.com/Ipshita0101)  
-
----
-
 ✨ *If you like this project, don’t forget to ⭐ the repo!* ✨  
